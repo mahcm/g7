@@ -16,6 +16,7 @@ public class G7 {
      */
     public static void main(String[] args) {
         System.out.print("LUL");
+        System.out.print("OMEGALUL");
     }
     
 }
