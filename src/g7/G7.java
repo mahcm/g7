@@ -18,6 +18,7 @@ public class G7 {
         System.out.print("LUL");
         System.out.print("OMEGALUL");
         System.out.print("Kekk");
+        System.out.print("WideHard");
     }
     
 }
